@@ -1,3 +1,15 @@
+# re:Pad Firmware
+Fork of QMK containing a custom implementation of hall effect logic, bit-banged WS2812 LED interfacing (to account for the WS2812 atop the RP2040-Zero) and other re:Pad specific things.
+
+## Also implements HID commands to allow the configurator to modify settings stored on flash on the fly.
+
+---
+---
+---
+---
+---
+# Content following this is the README of upstream QMK repo. vvv
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
